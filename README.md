@@ -44,5 +44,5 @@ After applying the defense mechanisms, XSS attacks were successfully blocked and
 This project was performed only for educational purposes in a controlled lab environment.
 
 ## 👤 Author
-Lamiya Laboni Akter Mitu  
-Cybersecurity Student
+Lamiya 
+CSE Student, Cybersecurity 
